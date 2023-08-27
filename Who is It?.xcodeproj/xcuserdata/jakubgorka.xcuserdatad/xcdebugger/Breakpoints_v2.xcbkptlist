@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DA3B4500-49D2-4EB4-A356-F5A945A6FA23"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6DBC618-EFD9-476A-A089-F72929C920FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6DBC618-EFD9-476A-A089-F72929C920FD - 66efbb340179eb93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "B6DBC618-EFD9-476A-A089-F72929C920FD - 734839fdf8c14b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "B6DBC618-EFD9-476A-A089-F72929C920FD - 8daabe83778a2b9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "B6DBC618-EFD9-476A-A089-F72929C920FD - 84d5fe2c332e7b9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "B6DBC618-EFD9-476A-A089-F72929C920FD - 9e073f48ef538b99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "624">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDE8F06E-8AC7-4D71-97C7-9DA08B24E276"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDE8F06E-8AC7-4D71-97C7-9DA08B24E276 - 66efbb340179eb3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "EDE8F06E-8AC7-4D71-97C7-9DA08B24E276 - f0dec7e15297f541"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "EDE8F06E-8AC7-4D71-97C7-9DA08B24E276 - 734839fdf8c14b30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "EDE8F06E-8AC7-4D71-97C7-9DA08B24E276 - 8daabe83778a2b32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "EDE8F06E-8AC7-4D71-97C7-9DA08B24E276 - 84d5fe2c332e7b33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "EDE8F06E-8AC7-4D71-97C7-9DA08B24E276 - cb85a9906c46a61b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; () in Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D77E50E-8789-4F2E-BC66-9356489BFF4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D77E50E-8789-4F2E-BC66-9356489BFF4D - 734839fdf8c14ab4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "0D77E50E-8789-4F2E-BC66-9356489BFF4D - 9d87a4145f1f58c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "0D77E50E-8789-4F2E-BC66-9356489BFF4D - 8daabe83778a2ab6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "0D77E50E-8789-4F2E-BC66-9356489BFF4D - 9e073f48ef538ab0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "0D77E50E-8789-4F2E-BC66-9356489BFF4D - bb4bad0f256815ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.FIRQueryDocumentSnapshot) -&gt; Who_is_It_.Person in Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42E85BE1-A0E6-4752-89CA-912A0E4825EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE0F75B0-3FCD-44C1-BBDB-812FB1153218"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "init(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE0F75B0-3FCD-44C1-BBDB-812FB1153218 - cd2a9158915a6a72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Who_is_It_.GameSet.init(id: Swift.String) -&gt; Who_is_It_.GameSet"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "BE0F75B0-3FCD-44C1-BBDB-812FB1153218 - 86539292d77a13e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Who_is_It_.GameSet.__allocating_init(id: Swift.String) -&gt; Who_is_It_.GameSet"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "BE0F75B0-3FCD-44C1-BBDB-812FB1153218 - cd2a9158915a6a53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Who_is_It_.GameSet.init(id: Swift.String) -&gt; Who_is_It_.GameSet"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9735E639-81F9-4CDF-9C36-DCB6E819712E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "init(id:name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9735E639-81F9-4CDF-9C36-DCB6E819712E - a04cab008799ec9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Who_is_It_.GameSet.init(id: Swift.String, name: Swift.String) -&gt; Who_is_It_.GameSet"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "9735E639-81F9-4CDF-9C36-DCB6E819712E - 78613dbedf6d5530"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Who_is_It_.GameSet.__allocating_init(id: Swift.String, name: Swift.String) -&gt; Who_is_It_.GameSet"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "9735E639-81F9-4CDF-9C36-DCB6E819712E - a04cab008799ecfa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Who_is_It_.GameSet.init(id: Swift.String, name: Swift.String) -&gt; Who_is_It_.GameSet"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90F800C1-3E1A-481F-8594-532912ECF46E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90F800C1-3E1A-481F-8594-532912ECF46E - a60e9ef9f53dde0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "90F800C1-3E1A-481F-8594-532912ECF46E - 66efbb340179f449"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C282D1A6-2F68-424A-9444-1B8C02E3EAE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20C88A64-4C12-4A17-8651-94C302154033"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "20C88A64-4C12-4A17-8651-94C302154033 - 84d5fe2c332e798f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "20C88A64-4C12-4A17-8651-94C302154033 - 9e073f48ef538988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "142"
+                  endingLineNumber = "142"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97375A90-0C45-4FB9-8992-9535A71C3303"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97375A90-0C45-4FB9-8992-9535A71C3303 - 84d5fe2c332e79a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "97375A90-0C45-4FB9-8992-9535A71C3303 - 9e073f48ef5389af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B29BEF4-D7E4-4FC5-A78C-AEA627BE2EA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0B29BEF4-D7E4-4FC5-A78C-AEA627BE2EA6 - 66efbb340179eb3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "0B29BEF4-D7E4-4FC5-A78C-AEA627BE2EA6 - f0dec7e15297f541"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "0B29BEF4-D7E4-4FC5-A78C-AEA627BE2EA6 - 734839fdf8c14b30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "0B29BEF4-D7E4-4FC5-A78C-AEA627BE2EA6 - 8daabe83778a2b32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "0B29BEF4-D7E4-4FC5-A78C-AEA627BE2EA6 - 84d5fe2c332e7b33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "0B29BEF4-D7E4-4FC5-A78C-AEA627BE2EA6 - cb85a9906c46a61b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; () in Who_is_It_.GameSet.fetchData() async -&gt; ()"
+                  moduleName = "Who is It?"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jakubgorka/Desktop/Who%20is%20It%3F/Who%20is%20It%3F/GameSet.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CC37208-9FDC-4386-9BC5-46EB9CE77356"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACC769B4-9224-4286-877E-5970777FF660"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E743EC5-6B49-489F-A27D-96974EFB6284"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F9F8F58-87E7-4DFA-9431-8A2A731D4FB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53C8F14D-2E11-405B-A8AF-2F7212A777D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "findSetByShortenedId(shortenedId:foundSet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACED8362-234A-4424-AFFE-778C30D877ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Who is It?/GameSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "findSetByShortenedId(shortenedId:foundSet:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
